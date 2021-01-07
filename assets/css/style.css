@@ -689,7 +689,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 
-.services .icon-box h4 a:hover {
+.services .icon-box h4:hover {
   color: white;
 }
 
