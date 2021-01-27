@@ -1,2 +1,2 @@
 # paola
-Paola Prüesse Interiores
+Paola Prüesse Interiores.
